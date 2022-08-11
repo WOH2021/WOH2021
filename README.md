@@ -135,12 +135,12 @@ Here are some ideas to get you started:
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mangento2/mangento2-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mangento2/mangento-original.svg"
         width="48"
         height="48"
-        alt="Mangento2"
+        alt="Mangento"
       />
-      <br /><strong>Mangento2</strong>
+      <br /><strong>Mangento</strong>
     </td>
   </tr>
 </table>

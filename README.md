@@ -135,12 +135,12 @@ Here are some ideas to get you started:
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mangento2/mangento-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/magento/magento-original.svg"
         width="48"
         height="48"
-        alt="Mangento"
+        alt="Magento"
       />
-      <br /><strong>Mangento</strong>
+      <br /><strong>Magento</strong>
     </td>
   </tr>
 </table>
